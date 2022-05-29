@@ -10,7 +10,7 @@ class Members
 		this.name = name;
 	}
 
-    // getter
+	// getter
 	public String getName()
 	{
 		return name;
@@ -21,7 +21,7 @@ class Members
 	{
 		return point;
 	}
-	
+
 	// setter
 	public void setName(String name)
 	{
