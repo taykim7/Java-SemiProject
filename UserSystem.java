@@ -218,5 +218,3 @@ class UserSystem extends Purchase implements KMenu
 		}
 	}
 }
-
-
