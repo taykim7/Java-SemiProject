@@ -1,10 +1,3 @@
-//import java.util.HashMap;
-//import java.util.Map;
-//import java.util.Set;
-//import java.util.List;
-//import java.util.ArrayList;
-
-
 class MemData extends Project
 {	
 	// 카테고리 ① 식료품
