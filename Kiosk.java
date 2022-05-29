@@ -79,4 +79,3 @@ class Kiosk extends Project implements KMenu
 			}
 	}
 }
-
