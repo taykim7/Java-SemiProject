@@ -74,5 +74,4 @@ class Cart extends Project
 		us.menuSelect();
 		us.menuRun();
 	}
-
 }
