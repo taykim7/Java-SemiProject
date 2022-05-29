@@ -8,8 +8,8 @@ public class Project
 
 	public void TestMemberData()
 	{
-		memList.put("010-1111-1111", new Members("김민성"));
-		memList.put("010-2222-2222", new Members("김태형"));
+		memList.put("010-1111-1111", new Members("파이리"));
+		memList.put("010-2222-2222", new Members("꼬부기"));
 		memList.get("010-5154-6322").setPoint(0);
 	}
 
