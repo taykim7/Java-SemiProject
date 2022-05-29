@@ -63,4 +63,5 @@ class NotUserSystem extends Purchase implements KMenu
 		case MAIN       : ks.systemOn();
 		}
 	}
+	
 }
