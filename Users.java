@@ -176,5 +176,3 @@ public class Users
 		ks.systemOn();	// 로그인 전 화면으로 돌아감.
 	}
 }
-
-	
