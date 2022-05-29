@@ -7,4 +7,5 @@ interface KMenu
 	public void menuSelect();	// 메뉴 선택 메소드
 
 	public void menuRun();		// 메뉴 실행 메소드
+	
 }
