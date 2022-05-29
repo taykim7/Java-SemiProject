@@ -62,4 +62,3 @@ class Products
 		this.addCount = addCount;
 	}
 }
-
