@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//import java.util.HashMap;
 import java.util.InputMismatchException;
 
 class Kiosk extends Project implements KMenu	
