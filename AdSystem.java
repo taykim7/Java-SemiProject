@@ -285,4 +285,5 @@ class AdSystem extends Buy implements KMenu
 
 		System.exit(-1);
 	}
+	
 }
