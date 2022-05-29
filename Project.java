@@ -8,8 +8,8 @@ public class Project
 
 	public void TestMemberData()
 	{
-		memList.put("010-5154-6322", new Members("김민성"));
-		memList.put("010-9768-3110", new Members("김태형"));
+		memList.put("010-1111-1111", new Members("김민성"));
+		memList.put("010-2222-2222", new Members("김태형"));
 		memList.get("010-5154-6322").setPoint(0);
 	}
 
@@ -22,8 +22,8 @@ public class Project
 		pdList.put("면도기", new Products(8000,10,2));
 		pdList.put("빨래세제", new Products(10000,10,2));
 		pdList.put("샴푸", new Products(12000,10,2));
-	    pdList.put("말보로레드",new Products(4500,10,3));
-	    pdList.put("참이슬",new Products(1700,10,3));
+	    	pdList.put("말보로레드",new Products(4500,10,3));
+	    	pdList.put("참이슬",new Products(1700,10,3));
 	}
 	
 
@@ -38,4 +38,3 @@ public class Project
 		ks.systemOn();
 	}
 }
-
