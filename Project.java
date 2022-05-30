@@ -22,8 +22,8 @@ public class Project
 		pdList.put("면도기", new Products(8000,10,2));
 		pdList.put("빨래세제", new Products(10000,10,2));
 		pdList.put("샴푸", new Products(12000,10,2));
-	    	pdList.put("말보로레드",new Products(4500,10,3));
-	    	pdList.put("참이슬",new Products(1700,10,3));
+	    pdList.put("말보로레드",new Products(4500,10,3));
+	    pdList.put("참이슬",new Products(1700,10,3));
 	}
 	
 
